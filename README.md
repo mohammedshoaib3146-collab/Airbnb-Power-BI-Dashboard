@@ -15,6 +15,8 @@ This project showcases an Airbnb market analysis dashboard developed using Micro
 
 - **Microsoft Power BI** — dashboard development and data visualization
 - **Data Visualization** — charts, KPIs, and visual reporting
+**Dashboard Preview**
+  ![Airbnb Power BI Dashboard](<img width="1171" height="657" alt="image" src="https://github.com/user-attachments/assets/03e1a9a5-2a85-4834-a425-9de737f466a0" />)
 
 
 ## 🔍 Key Analysis Areas
